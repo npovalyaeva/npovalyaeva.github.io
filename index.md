@@ -2,6 +2,14 @@ Hello friend! 🌿 My name is Nadya, 19 y. o.
 
 I study Software of Information Technology in Belarusian State University of Informatics and Radioelectronics, Faculty of Computer Systems and Networks.
 
+
+My hobbies include skating, running, playing chess, dancing and theater.
+
+I'm a Minsk Half Marathon 2015-18 participant as a 10K runner.
+
+My 2019 goal is to find balance between minimalism and live a zero-waste lifestyle (it's complicated, but i know, that it's possible 🙂).
+
+
 *There you can find all links.*
 
 #### I. Github account 
