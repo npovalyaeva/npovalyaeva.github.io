@@ -4,39 +4,39 @@ I study Software of Information Technology in Belarusian State University of Inf
 *There you can find all links.*
 
 #### I. Github account 
-*https://github.com/ssawinsp*
+*[https://github.com/ssawinsp](https://github.com/ssawinsp)*
 
 #### II. Codewars profile 
- *https://www.codewars.com/users/ssawinsp*
+ *[https://www.codewars.com/users/ssawinsp](https://www.codewars.com/users/ssawinsp)*
 
 #### III. Padawans tasks
 
-1. *https://github.com/ssawinsp/FancyCalc*
+1. *[https://github.com/ssawinsp/FancyCalc](https://github.com/ssawinsp/FancyCalc)*
 
-2. *https://github.com/ssawinsp/PadawansTask1*
+2. *[https://github.com/ssawinsp/PadawansTask1](https://github.com/ssawinsp/PadawansTask1)*
 
-3. *https://github.com/ssawinsp/PadawansTask2*
+3. *[https://github.com/ssawinsp/PadawansTask2](https://github.com/ssawinsp/PadawansTask2)*
 
-4. *https://github.com/ssawinsp/PadawansTask3*
+4. *[https://github.com/ssawinsp/PadawansTask3](https://github.com/ssawinsp/PadawansTask)*
 
-5. *https://github.com/ssawinsp/PadawansTask4*  
+5. *[https://github.com/ssawinsp/PadawansTask4](https://github.com/ssawinsp/PadawansTask4)*  
  
-6. *https://github.com/ssawinsp/PadawansTask5*
+6. *[https://github.com/ssawinsp/PadawansTask5](https://github.com/ssawinsp/PadawansTask5)*
 
-7. *https://github.com/ssawinsp/PadawansTask6*
+7. *[https://github.com/ssawinsp/PadawansTask6](https://github.com/ssawinsp/PadawansTask6)*
 
-8. *https://github.com/ssawinsp/PadawansTask7*
+8. *[https://github.com/ssawinsp/PadawansTask7](https://github.com/ssawinsp/PadawansTask7)*
 
-9. *https://github.com/ssawinsp/PadawansTask8*
+9. *[https://github.com/ssawinsp/PadawansTask8](https://github.com/ssawinsp/PadawansTask8)*
 
-10. *https://github.com/ssawinsp/PadawansTask9*
+10. *[https://github.com/ssawinsp/PadawansTask9](https://github.com/ssawinsp/PadawansTask9)*
 
-11. *https://github.com/ssawinsp/PadawansTask10*
+11. *[https://github.com/ssawinsp/PadawansTask10](https://github.com/ssawinsp/PadawansTask10)*
 
-12. *https://github.com/ssawinsp/PadawansTask11*
+12. *[https://github.com/ssawinsp/PadawansTask11](https://github.com/ssawinsp/PadawansTask11)*
 
-13. *https://github.com/ssawinsp/PadawansTask12*
+13. *[https://github.com/ssawinsp/PadawansTask12](https://github.com/ssawinsp/PadawansTask12)*
 
-14. *https://github.com/ssawinsp/PadawansTask13*
+14. *[https://github.com/ssawinsp/PadawansTask13](https://github.com/ssawinsp/PadawansTask13)*
 
-15. *https://github.com/ssawinsp/PadawansTask15*
+15. *[https://github.com/ssawinsp/PadawansTask15](https://github.com/ssawinsp/PadawansTask15)*
