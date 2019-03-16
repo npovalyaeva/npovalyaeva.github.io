@@ -1,55 +1,7 @@
-[Hello friend!](https://www.imdb.com/title/tt4158110/) 🌿 My name is Nadya, 19 y. o.
+﻿[Hello friend!](https://www.imdb.com/title/tt4158110/) 🌿 My name is Nadya, 19 y. o.
 
 I study Software of Information Technology in [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by/), [Faculty of Computer Systems and Networks](http://fksis.bsuir.by/).
 
+You can find no helpful information here.
 
-My hobbies include skating, running, playing chess, dancing and theater.
-
-I'm a [Minsk Half Marathon 2015-18](https://minskhalfmarathon.by/) participant as a 10K runner.
-
-My 2019 goal is to find balance between minimalism and live a zero-waste lifestyle (it's complicated, but i know, that it's possible 🙂).
-
-
-*There you can find all links.*
-
-#### I. Github account 
-*[https://github.com/ssawinsp](https://github.com/ssawinsp)*
-
-#### II. Codewars profile 
- *[https://www.codewars.com/users/ssawinsp](https://www.codewars.com/users/ssawinsp)*
-
-#### III. Padawans tasks
-
-1. *[https://github.com/ssawinsp/FancyCalc](https://github.com/ssawinsp/FancyCalc)*
-
-2. *[https://github.com/ssawinsp/PadawansTask1](https://github.com/ssawinsp/PadawansTask1)*
-
-3. *[https://github.com/ssawinsp/PadawansTask2](https://github.com/ssawinsp/PadawansTask2)*
-
-4. *[https://github.com/ssawinsp/PadawansTask3](https://github.com/ssawinsp/PadawansTask)*
-
-5. *[https://github.com/ssawinsp/PadawansTask4](https://github.com/ssawinsp/PadawansTask4)*  
- 
-6. *[https://github.com/ssawinsp/PadawansTask5](https://github.com/ssawinsp/PadawansTask5)*
-
-7. *[https://github.com/ssawinsp/PadawansTask6](https://github.com/ssawinsp/PadawansTask6)*
-
-8. *[https://github.com/ssawinsp/PadawansTask7](https://github.com/ssawinsp/PadawansTask7)*
-
-9. *[https://github.com/ssawinsp/PadawansTask8](https://github.com/ssawinsp/PadawansTask8)*
-
-10. *[https://github.com/ssawinsp/PadawansTask9](https://github.com/ssawinsp/PadawansTask9)*
-
-11. *[https://github.com/ssawinsp/PadawansTask10](https://github.com/ssawinsp/PadawansTask10)*
-
-12. *[https://github.com/ssawinsp/PadawansTask11](https://github.com/ssawinsp/PadawansTask11)*
-
-13. *[https://github.com/ssawinsp/PadawansTask12](https://github.com/ssawinsp/PadawansTask12)*
-
-14. *[https://github.com/ssawinsp/PadawansTask13](https://github.com/ssawinsp/PadawansTask13)*
-
-15. *[https://github.com/ssawinsp/PadawansTask15](https://github.com/ssawinsp/PadawansTask15)*
-
-
-
-*Last update: March, 5, 2019*
+*Last update: March, 16, 2019*
